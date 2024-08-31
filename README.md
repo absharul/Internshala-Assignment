@@ -1,6 +1,6 @@
 # search_internships
 
-Internshal Assingment 
+Internshala Assingment 
 
 apk link: https://drive.google.com/file/d/10y4dU-9y7uveUfZc3IZ8NaACh7Nu5MFy/view?usp=sharing
 
